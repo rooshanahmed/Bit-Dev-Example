@@ -10,7 +10,7 @@ var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var Helloworld = function Helloworld() {
-  return /*#__PURE__*/_react.default.createElement("h1", null, "Hello World From Rooshan Ahmed");
+  return /*#__PURE__*/_react.default.createElement("h1", null, "Hello World From Rooshan Ahmed \xA9");
 };
 
 var _default = Helloworld;
